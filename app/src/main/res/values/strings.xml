@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PreSchool</string>
+
+    <string name="setting">Settings</string>
+    <string name="profile_name">Coke Coca</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notification">Notifications</string>
+    <string name="language">Language</string>
+    <string name="about_us">About Us</string>
+    <string name="profile">Profile</string>
+    <string name="email">Gmail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+    <string name="A">APPLE</string>
+    <string name="B">BALL</string>
+    <string name="C">CAT</string>
+    <string name="D">DOG</string>
+
+
+</resources>
